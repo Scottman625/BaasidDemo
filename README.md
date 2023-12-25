@@ -27,3 +27,6 @@ body帶goods_name
 
 # 刪除商品 (DELETE)
 http://localhost:8080/goods/delete/{goodsId}/
+
+# Swagger-UI介面
+http://localhost:8080/swagger-ui/index.html
